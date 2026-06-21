@@ -1,0 +1,25 @@
+<template>
+  <svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    :width="size"
+    :height="size"
+  >
+
+  <path d="M18,21H6c-1.657,0-3-1.343-3-3V6h15c1.657,0,3,1.343,3,3v9C21,19.657,19.657,21,18,21z" opacity=".35" :fill="color" />
+  <circle cx="17.5" cy="13.5" r="1.5" :fill="color" />
+  <path d="M3,6c0-1.657,1.343-3,3-3h9c1.657,0,3,1.343,3,3H3z" :fill="color" />
+  </svg>
+</template>
+
+<script setup>
+defineProps({
+  size: {
+    type: [Number, String],
+    default: 24,
+  },
+  color: {
+    type: String,
+    default: "#1451cc",
+  },
+});
+</script>
