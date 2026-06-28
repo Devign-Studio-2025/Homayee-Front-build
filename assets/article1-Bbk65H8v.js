@@ -1,0 +1,1 @@
+var e=`/Homayee-Front-build/images/article4.webp`,t=`/Homayee-Front-build/images/article1.webp`;export{e as n,t};
