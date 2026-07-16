@@ -1,1 +1,0 @@
-import{A as e,f as t,h as n,i as r}from"./index-DyBjYUMK.js";var i={},a={style:{position:`fixed`,left:`-9999px`,top:`-9999px`,opacity:`0`,"pointer-events":`none`},"aria-hidden":`true`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`input`,{type:`text`,name:`hp-field`,tabindex:`-1`,autocomplete:`off`},null,-1)]])}var s=r(i,[[`render`,o]]);export{s as t};
