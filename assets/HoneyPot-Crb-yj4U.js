@@ -1,1 +1,0 @@
-import{F as e,h as t,i as n,v as r}from"./index-C8a5pHeL.js";var i={},a={style:{position:`fixed`,left:`-9999px`,top:`-9999px`,opacity:`0`,"pointer-events":`none`},"aria-hidden":`true`};function o(n,i){return e(),r(`div`,a,[...i[0]||=[t(`input`,{type:`text`,name:`hp-field`,tabindex:`-1`,autocomplete:`off`},null,-1)]])}var s=n(i,[[`render`,o]]);export{s as t};

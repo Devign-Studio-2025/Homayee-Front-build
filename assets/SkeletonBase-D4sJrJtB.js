@@ -1,1 +1,0 @@
-import{F as e,i as t,v as n}from"./index-C8a5pHeL.js";var r={},i={class:`dv-skeleton`,style:{width:`100%`,height:`1rem`,"border-radius":`var(--Radius-16)`}};function a(t,r){return e(),n(`div`,i)}var o=t(r,[[`render`,a],[`__scopeId`,`data-v-0039a51c`]]);export{o as t};

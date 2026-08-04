@@ -1,0 +1,1 @@
+import{R as e,X as t,k as n,p as r}from"./useTheme-Cy_6golJ.js";e();var i={},a={class:`dv-skeleton`,style:{width:`100%`,height:`1rem`,"border-radius":`var(--Radius-16)`}};function o(e,r){return t(),n(`div`,a)}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-0039a51c`]]);export{s as t};

@@ -1,1 +1,0 @@
-function e(e){return e==null||Number.isNaN(Number(e))?`۰`:Number(e).toLocaleString(`fa-IR`,{maximumFractionDigits:0})}export{e as t};

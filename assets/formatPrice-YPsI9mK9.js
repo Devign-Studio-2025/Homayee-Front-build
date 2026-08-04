@@ -1,0 +1,1 @@
+function e(e){return e==null||Number.isNaN(Number(e))?`0`:Number(e).toLocaleString()}export{e as t};

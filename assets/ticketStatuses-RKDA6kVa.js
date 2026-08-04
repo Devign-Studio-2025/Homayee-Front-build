@@ -1,0 +1,1 @@
+import{t as e}from"./check-check-0rWYpQji.js";import{t}from"./hourglass-C0OnMtnv.js";var n=Object.freeze({closed:{value:`closed`,text:`بسته شد`,tone:`success`,icon:e},pending:{value:`pending`,text:`درانتظار پاسخ`,tone:`warning`,icon:t}}),r=Object.values(n).map(({value:e,text:t})=>({value:e,text:t}));export{r as n,n as t};

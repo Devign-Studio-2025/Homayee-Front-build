@@ -1,0 +1,1 @@
+import{pt as e,vt as t}from"./useTheme-Cy_6golJ.js";import{_t as n}from"./index-B_FNy_XI.js";e();function r({fetcher:e,onSuccess:r,errorMessage:i}){let a=t(null),o=n();return{loadingId:a,handleFetch:async t=>{if(a.value===null)try{a.value=t;let n=await e(t);r?.(n)}catch(e){console.error(e),o.error(i||`خطا هنگام دریافت اطلاعات`)}finally{a.value=null}}}}export{r as t};

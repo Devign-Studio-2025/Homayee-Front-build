@@ -1,0 +1,1 @@
+var e=Object.freeze({online:{value:`online`,text:`آنلاین`},offline:{value:`offline`,text:`آفلاین`},system:{value:`system`,text:`سیستم`},wallet:{value:`wallet`,text:`کیف پول`}});Object.values(e).map(({value:e,text:t})=>({value:e,text:t}));export{e as t};

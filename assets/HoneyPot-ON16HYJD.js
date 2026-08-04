@@ -1,0 +1,1 @@
+import{E as e,R as t,X as n,k as r,p as i}from"./useTheme-Cy_6golJ.js";t();var a={},o={style:{position:`fixed`,left:`-9999px`,top:`-9999px`,opacity:`0`,"pointer-events":`none`},"aria-hidden":`true`};function s(t,i){return n(),r(`div`,o,[...i[0]||=[e(`input`,{type:`text`,name:`hp-field`,tabindex:`-1`,autocomplete:`off`},null,-1)]])}var c=i(a,[[`render`,s]]);export{c as t};

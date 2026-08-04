@@ -1,0 +1,1 @@
+function e(e){return`/Homayee-Front-build/`+e}export{e as t};
