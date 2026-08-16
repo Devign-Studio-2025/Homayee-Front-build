@@ -1,0 +1,1 @@
+import{D as e,O as t,Z as n,dt as r,z as i}from"./useTheme-IN9ygf_5.js";import{t as a}from"./AdminLayout-Bq3ZYYy2.js";i();var o={__name:`Index`,setup(i){return(i,o)=>(n(),t(a,null,{default:r(()=>[...o[0]||=[e(`div`,{class:`dv-box`},null,-1)]]),_:1}))}};export{o as default};
