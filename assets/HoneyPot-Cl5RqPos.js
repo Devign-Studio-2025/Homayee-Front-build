@@ -1,1 +1,0 @@
-import{A as e,D as t,Z as n,p as r,z as i}from"./useTheme-IN9ygf_5.js";i();var a={},o={style:{position:`fixed`,left:`-9999px`,top:`-9999px`,opacity:`0`,"pointer-events":`none`},"aria-hidden":`true`};function s(r,i){return n(),e(`div`,o,[...i[0]||=[t(`input`,{type:`text`,name:`hp-field`,tabindex:`-1`,autocomplete:`off`},null,-1)]])}var c=r(a,[[`render`,s]]);export{c as t};

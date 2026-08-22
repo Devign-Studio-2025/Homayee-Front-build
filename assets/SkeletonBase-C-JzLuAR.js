@@ -1,1 +1,0 @@
-import{A as e,Z as t,p as n,z as r}from"./useTheme-IN9ygf_5.js";r();var i={},a={class:`dv-skeleton`,style:{width:`100%`,height:`1rem`,"border-radius":`var(--Radius-16)`}};function o(n,r){return t(),e(`div`,a)}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-0039a51c`]]);export{s as t};

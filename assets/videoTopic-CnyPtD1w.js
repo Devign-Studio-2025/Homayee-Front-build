@@ -1,0 +1,1 @@
+var e=[{id:1,name:`روز مادر`,is_active:!0},{id:2,name:`کادو تولد`,is_active:!0},{id:3,name:`روز ولنتاین`,is_active:!0},{id:4,name:`روز عشق`,is_active:!1}];export{e as t};

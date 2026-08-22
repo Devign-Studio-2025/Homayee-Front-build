@@ -1,0 +1,1 @@
+function e(e){return e==null?``:String(e).replace(/\D/g,``).slice(0,16).replace(/(\d{4})(?=\d)/g,`$1 `)}export{e as t};

@@ -1,0 +1,1 @@
+import{C as e,G as t,N as n,b as r,o as i}from"./vue-router-BnwDwtmz.js";n();var a={},o={style:{position:`fixed`,left:`-9999px`,top:`-9999px`,opacity:`0`,"pointer-events":`none`},"aria-hidden":`true`};function s(n,i){return t(),e(`div`,o,[...i[0]||=[r(`input`,{type:`text`,name:`hp-field`,tabindex:`-1`,autocomplete:`off`},null,-1)]])}var c=i(a,[[`render`,s]]);export{c as t};

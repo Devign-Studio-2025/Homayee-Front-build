@@ -1,0 +1,1 @@
+var e=Object.freeze({gateway:{value:`gateway`,text:`درگاه پرداخت`},offline:{value:`offline`,text:`آفلاین`},system:{value:`system`,text:`سیستم`},wallet:{value:`wallet`,text:`کیف پول`}}),t=Object.values(e).map(({value:e,text:t})=>({value:e,text:t}));export{t as n,e as t};

@@ -1,0 +1,1 @@
+import{At as e,C as t,G as n,Jt as r,N as i,o as a}from"./vue-router-BnwDwtmz.js";e(),i();var o={class:`dv-empty-state`},s=a({__name:`EmptyState`,props:{message:{type:String,default:`هیچ موردی یافت نشد!`}},setup(e){return(i,a)=>(n(),t(`div`,o,r(e.message),1))}},[[`__scopeId`,`data-v-6582528c`]]);export{s as t};

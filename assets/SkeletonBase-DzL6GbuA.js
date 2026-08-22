@@ -1,0 +1,1 @@
+import{C as e,G as t,N as n,o as r}from"./vue-router-BnwDwtmz.js";n();var i={},a={class:`dv-skeleton`,style:{width:`100%`,height:`1rem`,"border-radius":`var(--Radius-16)`}};function o(n,r){return t(),e(`div`,a)}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-0039a51c`]]);export{s as t};

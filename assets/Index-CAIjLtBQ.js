@@ -1,0 +1,1 @@
+import{G as e,N as t,at as n,b as r,x as i}from"./vue-router-BnwDwtmz.js";import{t as a}from"./AdminLayout-CMPeE5ro.js";t();var o={__name:`Index`,setup(t){return(t,o)=>(e(),i(a,null,{default:n(()=>[...o[0]||=[r(`div`,{class:`dv-box`},null,-1)]]),_:1}))}};export{o as default};
