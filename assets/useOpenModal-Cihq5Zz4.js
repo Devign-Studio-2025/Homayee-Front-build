@@ -1,1 +1,0 @@
-import{ht as e,ut as t}from"./vue-router-BnwDwtmz.js";import{At as n}from"./index-Cmv3-6c7.js";t();function r({fetcher:t,onSuccess:r,errorMessage:i}){let a=e(null),o=n();return{loadingId:a,handleFetch:async e=>{if(a.value===null)try{a.value=e;let n=await t(e);r?.(n)}catch(e){console.error(e),o.error(i||`خطا هنگام دریافت اطلاعات`)}finally{a.value=null}}}}export{r as t};
