@@ -1,0 +1,1 @@
+function e({weight:e,goldPrice:t,wage:n,wageUnit:r,sellerProfit:i,vat:a,stonePrice:o=0}){let s=e*t,c=r===`percent`?n/100*s:n,l=(s+c)*(i/100),u=(c+l)*(a/100);return{goldBasePrice:s,wageAmount:c,sellerProfitAmount:l,vatAmount:u,finalPrice:s+o+c+l+u}}export{e as t};

@@ -1,0 +1,1 @@
+var e=Object.freeze({in_app:{value:`in_app`,text:`درون سیستم`},sms:{value:`sms`,text:`پیامک`}}),t=Object.values(e).map(({value:e,text:t})=>({value:e,text:t}));export{t as n,e as t};

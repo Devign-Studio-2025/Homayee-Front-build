@@ -1,0 +1,1 @@
+function e(e){let t=e.replace(/\D/g,``);return t.length===16?`${t.slice(0,4)}-****-****-${t.slice(-4)}`:e}function t(e){let t=e.startsWith(`IR`)?e:`IR${e}`;if(t.length!==26)return t;let n=t.slice(0,7),r=t.slice(-4);return`${n}${`*`.repeat(t.length-n.length-r.length)}${r}`}export{t as n,e as t};

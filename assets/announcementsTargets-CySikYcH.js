@@ -1,0 +1,1 @@
+var e=Object.freeze({all:{value:`all`,text:`همه`},vip:{value:`vip`,text:`ویژه`}}),t=Object.values(e).map(({value:e,text:t})=>({value:e,text:t}));export{t as n,e as t};

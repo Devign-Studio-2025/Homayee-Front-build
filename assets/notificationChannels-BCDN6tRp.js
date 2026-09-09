@@ -1,0 +1,1 @@
+var e=[{id:1,name:`in_app`},{id:2,name:`sms`}];export{e as t};
