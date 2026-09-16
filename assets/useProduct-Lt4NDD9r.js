@@ -1,0 +1,1 @@
+import{t as e}from"./useCrud-xNfVfFXg.js";import{a as t,i as n,n as r,r as i,s as a}from"./productService-C9WadWrn.js";function o(o){let s=e({getAll:i,remove:r});return{productCrud:s,variantCrud:e({update:a,loadedItems:o}),productToggleVip:e=>s.toggle(e,t),productToggleIsActive:e=>s.toggle(e,n)}}export{o as t};

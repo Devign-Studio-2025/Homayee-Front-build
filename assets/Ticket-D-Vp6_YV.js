@@ -1,0 +1,1 @@
+import{C as e,D as t,G as n,N as r,at as i,o as a}from"./vue-router-BxES-fS4.js";import{t as o}from"./Chat-oa2M0qH7.js";import{t as s}from"./DashboardLayout-DeT-W6N0.js";r();var c={class:`dv-ticket-layout-wrapper`},l=a({__name:`Ticket`,setup(r){return(r,a)=>(n(),e(`div`,c,[t(s,null,{default:i(()=>[t(o)]),_:1})]))}},[[`__scopeId`,`data-v-1dfc065d`]]);export{l as default};
