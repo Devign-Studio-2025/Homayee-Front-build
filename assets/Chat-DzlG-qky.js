@@ -1,0 +1,1 @@
+import{D as e,G as t,N as n,at as r,o as i,x as a}from"./vue-router-BxES-fS4.js";import{t as o}from"./AdminLayout-CIEBi49Y.js";import{t as s}from"./Chat-oa2M0qH7.js";n();var c=i({__name:`Chat`,setup(n){return(n,i)=>(t(),a(o,null,{default:r(()=>[e(s,{"back-link":{name:`admin/ticket`}})]),_:1}))}},[[`__scopeId`,`data-v-7c29e264`]]);export{c as default};
