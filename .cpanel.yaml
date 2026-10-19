@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/apadanag/public_html/Homayee-Front-build/
+    - export DEPLOYPATH=/home/apadanag/public_html/
     - /bin/cp -R * $DEPLOYPATH
