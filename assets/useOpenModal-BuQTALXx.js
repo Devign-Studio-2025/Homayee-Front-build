@@ -1,0 +1,1 @@
+import{ht as e,ut as t}from"./vue-router-BxES-fS4.js";import{jt as n}from"./index-m6m_XzzL.js";t();function r({fetcher:t,onSuccess:r,errorMessage:i}){let a=e(null),o=n();return{loadingId:a,handleFetch:async e=>{if(a.value===null)try{a.value=e;let n=await t(e);r?.(n)}catch(e){console.error(e),o.error(i||`خطا هنگام دریافت اطلاعات`)}finally{a.value=null}}}}export{r as t};
